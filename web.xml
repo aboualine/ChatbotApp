@@ -1,0 +1,10 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.0">
+    <servlet>
+        <servlet-name>ChatbotServlet</servlet-name>
+        <servlet-class>ChatbotServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ChatbotServlet</servlet-name>
+        <url-pattern>/ChatbotServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
