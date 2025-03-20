@@ -58,9 +58,10 @@ cd ChatbotApp
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests. Suggestions and improvements are always welcome!
 
-
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Made with ❤️ by [Aboualine Mohamed](https://github.com/your-username)
+Made with ❤️ by [Aboualine Mohamed](https://github.com/aboualine)
 
 
